@@ -1,0 +1,2 @@
+diagrams==0.18.0
+urllib3==1.26.3
