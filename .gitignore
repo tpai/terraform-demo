@@ -1,2 +1,3 @@
 *.png
+.terraform*
 !diagrams_image.png
